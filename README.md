@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diyas aka @LifeisLongGamma 
-- 👀 I’m interested in a backend web developing using Python, and would like to master the Django Framework shortly. 
-- 🌱 I’m currently learning software engineering at International Information Technology University based in Kazakhstan 
-- 💞️ I’m looking to collaborate on projects that I believe I can contribute to. 
+- 👀 I’m interested in a backend web development using Python, and started to master basics of the Django Framework. 
+- 🌱 I’m currently majoring software engineering at International Information Technology University based in Almaty, Kazakhstan. 
+- 💞️ I’m looking forward to collaborating on projects that I believe I can contribute to. 
 - 📫 You can reach me at the github account or email to iyemberdiyev@gmail.com 
 
 <!---
